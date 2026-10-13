@@ -1,0 +1,25 @@
+body{
+    background-color: darkolivegreen;
+    font-family: "Century Gothic", AppleGothic, "Segoe UI", sans-serif;
+}
+
+.card{
+    background-color: #e6e5e5;
+    font-size: 12px ;
+}
+
+.navbar{
+    background-color: darkgreen;
+}
+
+#fieldText{
+    font-size: 12px;
+}
+
+#fieldTextarea{
+    font-size: 12px;
+}
+
+.btn-group{
+    color: white;
+}
