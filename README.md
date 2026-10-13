@@ -1,0 +1,1 @@
+1. Crear el el repositorio en GitHub y clonarlo en nuestro VS.
